@@ -38,12 +38,13 @@ Me considero una persona trabajadora, adaptativa y con ganas de mejorar. Quiero 
 He utilzado lenguajes como:
 </br></br>
 [![My Skills](https://skillicons.dev/icons?i=cs,java,js,kotlin,html,css,py,mysql,sqlite)](https://skillicons.dev)
-</br> entre otros...
+</br> Entre otras...
 
 ### Tecnologías
 Uso tecnlogías como:
 </br></br>
 [![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,gradle,postgres,postman)](https://skillicons.dev)
+</br> También cuento con experiencia con tecnologías como Odoo, Zoho, SalesForce...
 
 ### Bases de Datos
 Sé utilizar BdD como:
@@ -54,8 +55,35 @@ Sé utilizar BdD como:
 Tengo experiencia con IDEs como:
 </br></br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode)](https://skillicons.dev)
+</br> NetBeans, Brackets...
 
 ### Sistemas Operativos
 He trabajado con S.O. como:
 </br></br>
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux,kali)](https://skillicons.dev)
+</br> Android, Máquinas Virtuales...
+
+## 🐱 GitHub:
+
+<div align="center">
+  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlvaroCarrion&theme=dark&hide_border=false&langs_count=10"/>
+	<br/></br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlvaroCarrion&theme=dark&hide_border=false" alt="GitHub Streak"/></a>
+	<br/>
+</div>
+
+## 🐍 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvaroCarrion/AlvaroCarrion/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroCarrion/AlvaroCarrion/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlvaroCarrion/AlvaroCarrion/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Quote"/>
+</div>
