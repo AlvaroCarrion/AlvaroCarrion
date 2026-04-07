@@ -1,4 +1,6 @@
-<h1 align="center">Hola, soy Álvaro Carrión</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Álvaro%20Carrión&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software&descAlignY=60&descAlign=0" width="100%"/>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -19,3 +21,41 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+## 👨‍💻 Sobre mi:
+
+Soy Álvaro Carrión Iniesta, titulado en Sistemas Microinformáticos y Redes y Desarrollo de Aplicaciones Multiplataforma. 
+
+A lo largo de mi proceso como estudiante he adquirido conocimientos sólidos en programación, metodologías de trabajo, bases de datos, desarrollo móvil, arquitectura de software y diseño de interfaces.
+
+Me considero una persona trabajadora, adaptativa y con ganas de mejorar. Quiero comenzar a trabajar en el desarrollo de software, con el objetivo de crecer profesionalmente y aportar soluciones en proyectos reales.
+
+---
+
+## 🛠️ Habilidades:
+
+### Lenguajes
+He utilzado lenguajes como:
+</br></br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,kotlin,html,css,py,mysql,sqlite)](https://skillicons.dev)
+</br> entre otros...
+
+### Tecnologías
+Uso tecnlogías como:
+</br></br>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,gradle,postgres,postman)](https://skillicons.dev)
+
+### Bases de Datos
+Sé utilizar BdD como:
+</br></br>
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb)](https://skillicons.dev)
+
+### IDEs
+Tengo experiencia con IDEs como:
+</br></br>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode)](https://skillicons.dev)
+
+### Sistemas Operativos
+He trabajado con S.O. como:
+</br></br>
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux,kali)](https://skillicons.dev)
